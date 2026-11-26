@@ -1,0 +1,10 @@
+{
+  "asset": "0x7E955252E15c84f5768B83c41a71F9eba181802F",
+  "chainId": 46630,
+  "disputeSeconds": 900,
+  "escrow": "0xDe46a47b47A5cd877F69AA5A1937a27b276e08b4",
+  "factory": "0x4cc7a39444b107CEC0D61288d4EEA5400C531e58",
+  "prizePool": "0x90339f899246cdD6BeBAef22E546dd2619A623f2",
+  "startBlock": 157870828,
+  "swapAdapter": "0x920915C04C2308752778c3950c4102C845aFC95C"
+}
